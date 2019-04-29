@@ -41,6 +41,7 @@
                 </div>
             <?php endif; ?>
 
+        <!-- Formulario -->
         <div class="line">
             <form action="register.php" method="POST">
                 <input type="text" name="nombre" placeholder="Nombre" />
@@ -63,6 +64,7 @@
         <hr>
         <p class="credit">Designed and developed by <span class="credits">Franco Sparn</span> &copy 2019.</p>
         </form>
+        <!-- Fin Formulario -->
 
         <!-- Ejecuta la función borrarErrores para que desaparezcan luego de refrescar la página -->
         <?php borrarErrores(); ?>
