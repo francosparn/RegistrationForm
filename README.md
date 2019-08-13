@@ -1,4 +1,4 @@
-# RegistrationForm
+# User Registration Form
 
 Design and development of registration form made with HTML, CSS, PHP and MySQL.<br/>
 Adapted to mobile devices.
